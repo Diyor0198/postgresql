@@ -4,6 +4,6 @@ public class Main {
                   System.out.println("Diyorbek");
                   System.out.println("Diyorbek");
                   System.out.println("Diyorbek");
-                  System.out.println("Jasurbek branchi qo'shildi");
+                  System.out.println("Add jasurbek branch ");
          }
 }
